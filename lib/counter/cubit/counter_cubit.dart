@@ -12,4 +12,5 @@ class CounterCubit extends Cubit<int> {
 
   void increment() => emit(state + 1);
   void decrement() => emit(state - 1);
+  void change() => emit(state - 1);
 }
