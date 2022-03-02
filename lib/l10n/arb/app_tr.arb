@@ -1,0 +1,15 @@
+{
+    "@@locale": "tr",
+    "counterAppBarTitle": "Sayaç",
+    "@counterAppBarTitle": {
+        "description": "Sayaç sayfasının başlık kısmında gösterilecek metin"
+    },
+    "currentCounter": "Sayacın şu anki değeri: {count}",
+    "@currentCounter": {
+        "placeHolders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    }
+}
